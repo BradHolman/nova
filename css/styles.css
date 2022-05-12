@@ -1,0 +1,101 @@
+font-family: 'Amarante', cursive;
+
+
+
+html {
+    box-sizing:border-box;
+    max-width: 1300px;
+    min-width: 425px
+}
+
+*, *:before, *:after {
+    box-sizing:inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.container {
+  padding-left: 10px;
+  display: block;
+  max-width: 1200px;
+  min-width: 600px;
+  font-family:Amarante;
+  font-size: 40px;
+
+}
+.head {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.logo {
+ width: 500px;
+ height: 100px;
+}
+
+.mucha{
+  height: 575px;
+  width: 1200px;
+}
+.or {
+  background: none;
+  width: 1200px;
+  height: 800px;
+
+}
+.body {
+  font-size: 70px;
+  text-align: left;
+  color: #FCF1B2;
+  margin: 0;
+  padding-left: 10px;
+}
+
+.fishbowl {
+  height: 400px;
+  width: 500px;
+  margin: 0;
+  padding-left: 10px;
+}
+
+.pic {
+  height: 400px;
+  width: 500px;
+  margin: 0;
+  padding-left: 700px;
+  margin-top: -400px;
+
+}
+
+.o {
+  font-size: 500px;
+  color:  #5F675D;
+
+  margin: 0;
+  margin-top: -500px;
+  text-align:  center;
+  padding-right: 200px;
+  opacity: .8;
+}
+.r {
+  font-size: 500px;
+  color:  #FCF1B2;
+  margin: 0;
+  margin-top: -500px;
+  text-align:  center;
+  padding-left: 150px;
+  opacity: .8;
+
+}
+
+.body_2 {
+
+  font-size: 70px;
+  text-align: right;
+  color: #FCF1B2;
+  margin: 0;
+  padding-right: 10px;
+}
